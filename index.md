@@ -1,6 +1,6 @@
-## Herzlich willkommen!
+## #helpUkraine
 
-**Wir sammeln Spanden für die Kriegsopfer in der Ukraine!**
+**Herzlich willkommen! Wir sammeln Spanden für die Kriegsopfer in der Ukraine!**
 
 ![#helpUkraine](images/flyer_01.jpeg "#helpUkraine")
 
